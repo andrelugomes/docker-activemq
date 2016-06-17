@@ -15,7 +15,7 @@ RUN \
 ENV JAVA_HOME /usr/java/default
 
 #Define ActiveQM Envs
-ENV ACTIVEMQ_VERSION 5.12.0
+ENV ACTIVEMQ_VERSION 5.13.3
 ENV ACTIVEMQ apache-activemq-$ACTIVEMQ_VERSION
 ENV ACTIVEMQ_HOME /opt/activemq
 
