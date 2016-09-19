@@ -1,5 +1,9 @@
 # Docker ActiveMQ
 
+[![](https://images.microbadger.com/badges/image/andrelugomes/docker-activemq.svg)](https://microbadger.com/images/andrelugomes/docker-activemq "Get your own image badge on microbadger.com")
+
+[![](https://images.microbadger.com/badges/version/andrelugomes/docker-activemq.svg)](https://microbadger.com/images/andrelugomes/docker-activemq "Get your own version badge on microbadger.com")
+
 Docker container to ActiveMQ Message Broker
 
 ## Pull image
